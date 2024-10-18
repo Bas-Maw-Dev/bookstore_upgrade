@@ -1,24 +1,5 @@
-# README
+# Bookstore Upgrade
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Following the recent bookstore project to develop my TDD skills, I am now doing an upgrade to improve some of the features.
+* More properties of each book
+* Improving UX
